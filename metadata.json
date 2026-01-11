@@ -1,0 +1,8 @@
+{
+  "name": "MentorMatch AI",
+  "description": "An AI-powered mentorship platform featuring role-based profiles, intelligent matching via Gemini, real-time chat simulations, community forums, and session scheduling.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
